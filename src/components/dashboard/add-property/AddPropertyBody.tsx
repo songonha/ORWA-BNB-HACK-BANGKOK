@@ -42,8 +42,7 @@ const AddPropertyBody = () => {
                <Link to="#" className="dash-btn-two tran3s me-3">Submit Property</Link>
             </div>
             <div className="button-group d-inline-flex align-items-center mt-50">
-               <Link to="#" className="dash-btn-two tran3s me-3">Mint NFT</Link>
-               <Link to="#" className="dash-btn-two tran3s me-3">Stake NFT</Link>
+               <Link to="#" className="dash-btn-two tran3s me-3">Mint RWA Token</Link>
                <Link to="#" className="dash-cancel-btn tran3s">Cancel</Link>
             </div>
          </div>
