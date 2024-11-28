@@ -4,7 +4,7 @@ Address: 0xde40d445a7027f2771cb4472aac2c92152a3be9b
 
 https://testnet.bscscan.com/address/0xde40d445a7027f2771cb4472aac2c92152a3be9b#code
 
-# React + TypeScript + Vite
+# Mint RWA Token
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
