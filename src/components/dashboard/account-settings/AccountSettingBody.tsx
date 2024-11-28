@@ -52,6 +52,7 @@ const AccountSettingBody = () => {
 
                   <div className="button-group d-inline-flex align-items-center mt-30">
                      <Link to="#" className="dash-btn-two tran3s me-3">Save</Link>
+                     <Link to="#" className="dash-btn-two tran3s me-3">KYC User Profile</Link>
                      <Link to="#" className="dash-cancel-btn tran3s">Cancel</Link>
                   </div>
                </form>
